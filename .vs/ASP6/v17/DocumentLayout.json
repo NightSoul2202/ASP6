@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petak\\source\\repos\\ASP6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\views\\home\\orderquantity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\views\\home\\orderquantity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\views\\home\\orderform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\views\\home\\orderform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\views\\home\\ordersummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\views\\home\\ordersummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|c:\\users\\petak\\source\\repos\\asp6\\asp6\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A5F320-58F8-46E2-8E76-89B166845AC0}|ASP6\\ASP6.csproj|solutionrelative:asp6\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Views\\Home\\OrderSummary.cshtml",
+              "RelativeDocumentMoniker": "ASP6\\Views\\Home\\OrderSummary.cshtml",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Views\\Home\\OrderSummary.cshtml",
+              "RelativeToolTip": "ASP6\\Views\\Home\\OrderSummary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T10:36:48.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Views\\Home\\OrderForm.cshtml",
+              "RelativeDocumentMoniker": "ASP6\\Views\\Home\\OrderForm.cshtml",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Views\\Home\\OrderForm.cshtml",
+              "RelativeToolTip": "ASP6\\Views\\Home\\OrderForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T10:36:26.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderQuantity.cshtml",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Views\\Home\\OrderQuantity.cshtml",
+              "RelativeDocumentMoniker": "ASP6\\Views\\Home\\OrderQuantity.cshtml",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Views\\Home\\OrderQuantity.cshtml",
+              "RelativeToolTip": "ASP6\\Views\\Home\\OrderQuantity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T10:36:16.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASP6\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "ASP6\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T10:36:06.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP6\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAEwD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:32:19.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Program.cs",
+              "RelativeDocumentMoniker": "ASP6\\Program.cs",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Program.cs",
+              "RelativeToolTip": "ASP6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:27:16.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ASP6\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Services\\OrderService.cs",
+              "RelativeToolTip": "ASP6\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:26:53.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ASP6\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "ASP6\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:26:09.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ASP6\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Models\\User.cs",
+              "RelativeToolTip": "ASP6\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:23:50.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASP6\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\petak\\source\\repos\\ASP6\\ASP6\\Models\\Product.cs",
+              "RelativeToolTip": "ASP6\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:24:48.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
